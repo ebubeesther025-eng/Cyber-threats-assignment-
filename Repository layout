@@ -1,0 +1,10 @@
+Cyber-Threats-and-Vulnerabilities/
+│
+├── README.md
+├── vulnerability_scan/
+│   ├── zap_scan_report.txt
+│   └── zap_findings_summary.md
+│
+└── phishing_analysis/
+    ├── phishing_IOCs.md
+    └── phishing_case_study.txt
